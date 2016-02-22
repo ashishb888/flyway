@@ -1,0 +1,9 @@
+drivers/
+flyway
+flyway.cmd
+jars/
+jre/
+lib/
+LICENSES-THIRD-PARTY.txt
+LICENSE.txt
+README.txt
